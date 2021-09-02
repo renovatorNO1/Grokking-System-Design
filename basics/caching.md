@@ -11,8 +11,8 @@ Caching
   - The same request can go to different nodes.
   - Increase cache misses.
   - Solutions:
-    - Global caches
-    - Distributed caches
+    - Global caches ???
+    - Distributed caches ???
 
 ## Distributed cache
 - Each request layer node owns part of the cached data.
